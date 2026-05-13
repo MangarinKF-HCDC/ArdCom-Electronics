@@ -120,6 +120,7 @@ function initShoppingPage() {
   // Initialize shopping page with all products
   renderShoppingProducts(allProducts);
   displayBestSellingImage();
+  renderCategoryGrid();
 
   // Setup category button event listeners
   document.querySelectorAll(".category-button").forEach((button) => {
@@ -338,6 +339,34 @@ function displayBestSellingImage() {
   const product = bestSellingProducts[Math.floor(Math.random() * bestSellingProducts.length)];
   image.src = assetPath(product.image1);
   image.alt = product.name;
+}
+
+function getCategoryImage(category) {
+  const product = allProducts.find(p => p.category === category);
+  return product ? assetPath(product.image1) : "";
+}
+
+function renderCategoryGrid() {
+  const categoryGridElement = document.getElementById("categoryGrid");
+  if (!categoryGridElement) return;
+
+  // Get unique categories from products, excluding Monitor
+  const categories = [...new Set(allProducts.map(p => p.category))].filter(cat => cat !== "Monitor");
+  
+  // Create category buttons HTML
+  const categoryButtonsHTML = categories.map(category => {
+    const imageUrl = getCategoryImage(category);
+    const backgroundStyle = imageUrl ? `background-image: url('${imageUrl}');` : "";
+    
+    return `
+      <button class="category-button" onclick="filterShoppingCategory('${escapeAttribute(category)}')">
+        <div class="category-image-frame" style="${backgroundStyle}"></div>
+        <span class="category-button-text">${escapeHTML(category)}</span>
+      </button>
+    `;
+  }).join('');
+  
+  categoryGridElement.innerHTML = categoryButtonsHTML;
 }
 
 function filterShoppingCategory(category) {
