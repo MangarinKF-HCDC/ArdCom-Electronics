@@ -1,52 +1,50 @@
 Category1,Best Selling,Product Name,Price,Image URL 1, Image URL 2 
-Vendo Machines,True,ArdCom WiFi Vending Machine,₱ 4,500.00
-Shot Clocks,True,ArdCom Wireless Basketball Shotclocks,₱ 9,750.00
-Computer Sets,True, Ryzen 5 5600G Computer Set,₱ 25,000.00
-Computer Sets,True, Ryzen 7 5700G Computer Set,₱ 35,000.00
-Computer Sets, ,Ryzen 9 5900X Computer Set,₱ 50,000.00
-Computer Sets,True,Intel i3 12100 Computer Set,₱ 20,000.00
-Computer Sets, ,Intel i5 12400 Computer Set,₱ 30,000.00
-Computer Sets, ,Intel i7 12700 Computer Set,₱ 40,000.00
-Computer Case, ,Lian Li PC-O11 Dynamic EVO,₱ 7,500.00
-Computer Case, ,Inplay PC Case,₱ 3,500.00
-Computer Case, ,Inplay PC Case with RGB,₱ 4,500.00
-Computer Fan, ,Noctua NF-A12x25,₱ 1,500.00
-Computer Fan, ,Corsair LL120 RGB,₱ 2,000.00
-Computer Fan, ,Cooler Master MasterFan MF120R ARGB,₱ 1,800.00
-Computer Fan, ,Cooler Master MasterFan MF120R ARGB 3 Pack,₱ 5,000.00
-Computer Fan, ,Inplay PC Fan with RGB,₱ 1,500.00
-Computer Fan, ,Inplay PC Fan 3 Pack with RGB,₱ 4,000.00
-Laptops,True,Lenovo IdeaPad 3 15ITL6,₱ 25,000.00
-Laptops, ,Lenovo IdeaPad 3 14ITL6,₱ 20,000.00
-Laptops,True,Asus VivoBook 15 X515EA,₱ 30,000.00
-Laptops,True,HP 15s-fq2716TU,₱ 28,000.00
-Memory, ,Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz,₱ 4,000.00
-Memory, ,G.Skill Ripjaws V 16GB (2x8GB) DDR4 3200MHz,₱ 4,500.00
-Memory, ,Team T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz,₱ 3,500.00
-Motherboard, ,ASUS Prime B550M-A WiFi,₱ 7,000.00
-Motherboard, ,ASUS TUF Gaming B550M-PLUS WiFi,₱ 8,000.00
-Motherboard, ,Gigabyte A550M S2H,₱ 6,000.00
-Motherboard, ,MSI B550M PRO-VDH WIFI,₱ 7,500.00
-PC Accessories, ,Logitech G502 HERO,₱ 2,500.00
-PC Accessories, ,Razer DeathAdder V2,₱ 3,000.00
-PC Accessories, ,Logitech Headset G432,₱ 2,000.00
-PC Accessories, ,Inplay Gaming Headset,₱ 1,500.00
-PC Accessories, ,Inplay Gaming Mouse Pad,₱ 500.00
-PC Accessories, ,Inplay Gaming Mouse Pad with RGB,₱ 1,000.00
-Processor, ,AMD Ryzen 5 5600G,₱ 12,000.00
-Processor, ,AMD Ryzen 7 5700G,₱ 18,000.00
-Processor, ,AMD Ryzen 9 5900X,₱ 30,000.00
-Processor, ,Intel i3 12100,₱ 10,000.00
-Processor, ,Intel i5 12400,₱ 15,000.00
-Processor, ,Intel i7 12700,₱ 25,000.00
-Storage, ,Western Digital Blue 1TB HDD,₱ 2,500.00
-Storage, ,Seagate Barracuda 2TB HDD,₱ 3,500
-Storage, ,Samsung 970 EVO Plus 500GB NVMe SSD,₱ 4,000.00
-Storage, ,Crucial P5 1TB NVMe SSD,₱ 6,000.00
-Storage, ,Inplay 1TB External HDD,₱ 3,000.00
-Storage, ,Ramsta 256GB SSD,₱ 1,500.00
-Television,True,Pantron 32" HD LED TV,₱ 8,000.00
-Television,True,NVision 43" 4K UHD TV,₱ 15,000.00
-Monitor,True,LG 24MP59G 24" Gaming Monitor,₱ 7,000.00
-Monitor,True,Inplay 24" Gaming Monitor,₱ 5,000.00
-Monitor,True,Inplay 27" Gaming Monitor,₱ 7,000.00
+Vendo Machines,True,ArdCom WiFi Vending Machine,₱ 4,500.00,Source Image/Shop/Vendo Machines/ArdCom WiFi Vending Machine/1.jpg,Source Image/Shop/Vendo Machines/ArdCom WiFi Vending Machine/2.jpg
+Shot Clocks,True,ArdCom Wireless Basketball Shotclocks,₱ 9,750.00,Source Image/Shop/Shot Clocks/ArdCom Wireless Basketball Shotclocks/1.png,Source Image/Shop/Shot Clocks/ArdCom Wireless Basketball Shotclocks/2.webp
+Computer Sets,True, Ryzen 5 5600G Computer Set,₱ 25,000.00,Source Image/Shop/Computer Sets/Ryzen 5 5600G Computer Set/1.jpg,Source Image/Shop/Computer Sets/Ryzen 5 5600G Computer Set/2.jpg
+Computer Sets,True, Ryzen 7 5700G Computer Set,₱ 35,000.00,Source Image/Shop/Computer Sets/Ryzen 7 5700G Computer Set/1.jpg,Source Image/Shop/Computer Sets/Ryzen 7 5700G Computer Set/2.jpg
+Computer Sets, ,Ryzen 9 5900X Computer Set,₱ 50,000.00,Source Image/Shop/Computer Sets/Ryzen 9 5900X Computer Set/1.jpg,Source Image/Shop/Computer Sets/Ryzen 9 5900X Computer Set/2.webp
+Computer Sets,True,Intel i3 12100 Computer Set,₱ 20,000.00,Source Image/Shop/Computer Sets/Intel i3 12100 Computer Set/1.jpg,Source Image/Shop/Computer Sets/Intel i3 12100 Computer Set/2.jpg
+Computer Sets, ,Intel i5 12400 Computer Set,₱ 30,000.00,Source Image/Shop/Computer Sets/Intel i5 12400 Computer Set/1.jpg,Source Image/Shop/Computer Sets/Intel i5 12400 Computer Set/2.webp
+Computer Sets, ,Intel i7 12700 Computer Set,₱ 40,000.00,Source Image/Shop/Computer Sets/Intel i7 12700 Computer Set/1.jpg,Source Image/Shop/Computer Sets/Intel i7 12700 Computer Set/2.jpg
+Computer Case, ,Lian Li PC-O11 Dynamic EVO,₱ 7,500.00,Source Image/Shop/Computer Case/Lian Li PC-O11 Dynamic EVO/1.webp,Source Image/Shop/Computer Case/Lian Li PC-O11 Dynamic EVO/2.webp
+Computer Case, ,Inplay PC Case,₱ 3,500.00,Source Image/Shop/Computer Case/Inplay PC Case/1.webp,Source Image/Shop/Computer Case/Inplay PC Case/2.jpg
+Computer Case, ,Inplay PC Case with RGB,₱ 4,500.00,Source Image/Shop/Computer Case/Inplay PC Case with RGB/1.jpg,Source Image/Shop/Computer Case/Inplay PC Case with RGB/2.jpg
+Computer Fan, ,Noctua NF-A12x25,₱ 1,500.00,Source Image/Shop/Computer Fan/Noctua NF-A12x25/1.jpg,Source Image/Shop/Computer Fan/Noctua NF-A12x25/2.jpg
+Computer Fan, ,Corsair LL120 RGB,₱ 2,000.00,Source Image/Shop/Computer Fan/Corsair LL120 RGB/1.jpg,Source Image/Shop/Computer Fan/Corsair LL120 RGB/2.jpg
+Computer Fan, ,Cooler Master MasterFan MF120R ARGB,₱ 1,800.00,Source Image/Shop/Computer Fan/Cooler Master MasterFan MF120R ARGB/1.jpg,Source Image/Shop/Computer Fan/Cooler Master MasterFan MF120R ARGB/2.jpg
+Computer Fan, ,Cooler Master MasterFan MF120R ARGB 3 Pack,₱ 5,000.00,Source Image/Shop/Computer Fan/Cooler Master MasterFan MF120R ARGB 3 Pack/1.webp,Source Image/Shop/Computer Fan/Cooler Master MasterFan MF120R ARGB 3 Pack/2.jpg
+Computer Fan, ,Inplay PC Fan with RGB,₱ 1,500.00,Source Image/Shop/Computer Fan/Inplay PC Fan with RGB/1.jpg,Source Image/Shop/Computer Fan/Inplay PC Fan with RGB/2.webp
+Computer Fan, ,Inplay PC Fan 3 Pack with RGB,₱ 4,000.00,Source Image/Shop/Computer Fan/Inplay PC Fan 3 Pack with RGB/1.jpg,Source Image/Shop/Computer Fan/Inplay PC Fan 3 Pack with RGB/2.webp
+Laptops,True,Lenovo IdeaPad 3 15ITL6,₱ 25,000.00,Source Image/Shop/Laptops/Lenovo IdeaPad 3 15ITL6/1.jpg,Source Image/Shop/Laptops/Lenovo IdeaPad 3 15ITL6/2.avif
+Laptops, ,Lenovo IdeaPad 3 14ITL6,₱ 20,000.00,Source Image/Shop/Laptops/Lenovo IdeaPad 3 14ITL6/1.jpg,Source Image/Shop/Laptops/Lenovo IdeaPad 3 14ITL6/2.png
+Laptops,True,Asus VivoBook 15 X515EA,₱ 30,000.00,Source Image/Shop/Laptops/Asus VivoBook 15 X515EA/1.jpg,Source Image/Shop/Laptops/Asus VivoBook 15 X515EA/2.webp
+Laptops,True,HP 15s-fq2716TU,₱ 28,000.00,Source Image/Shop/Laptops/HP 15s-fq2716TU/1.jpg,Source Image/Shop/Laptops/HP 15s-fq2716TU/2.jpg
+Memory, ,Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz,₱ 4,000.00,Source Image/Shop/Memory/Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz/1.jpg,Source Image/Shop/Memory/Corsair Vengeance LPX 16GB (2x8GB) DDR4 3200MHz/2.avif
+Memory, ,G.Skill Ripjaws V 16GB (2x8GB) DDR4 3200MHz,₱ 4,500.00,Source Image/Shop/Memory/G.Skill Ripjaws V 16GB (2x8GB) DDR4 3200MHz/1.jpg,Source Image/Shop/Memory/G.Skill Ripjaws V 16GB (2x8GB) DDR4 3200MHz/2.jpg
+Memory, ,Team T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz,₱ 3,500.00,Source Image/Shop/Memory/Team T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz/1.jpg,Source Image/Shop/Memory/Team T-Force Vulcan Z 16GB (2x8GB) DDR4 3200MHz/2.jpg
+Motherboard, ,ASUS Prime B550M-A WiFi,₱ 7,000.00,Source Image/Shop/Motherboard/ASUS Prime B550M-A WiFi/1.png,Source Image/Shop/Motherboard/ASUS Prime B550M-A WiFi/2.jpg
+Motherboard, ,ASUS TUF Gaming B550M-PLUS WiFi,₱ 8,000.00,Source Image/Shop/Motherboard/ASUS TUF Gaming B550M-PLUS WiFi/1.jpg,Source Image/Shop/Motherboard/ASUS TUF Gaming B550M-PLUS WiFi/2.png
+Motherboard, ,Gigabyte A550M S2H,₱ 6,000.00,Source Image/Shop/Motherboard/Gigabyte A550M S2H/1.jpg,Source Image/Shop/Motherboard/Gigabyte A550M S2H/2.png
+Motherboard, ,MSI B550M PRO-VDH WIFI,₱ 7,500.00,Source Image/Shop/Motherboard/MSI B550M PRO-VDH WIFI/1.jpg,Source Image/Shop/Motherboard/MSI B550M PRO-VDH WIFI/2.webp
+PC Accessories, ,Logitech G502 HERO,₱ 2,500.00,Source Image/Shop/PC Accessories/Logitech G502 HERO/1.jpg,Source Image/Shop/PC Accessories/Logitech G502 HERO/2.webp
+PC Accessories, ,Razer DeathAdder V2,₱ 3,000.00,Source Image/Shop/PC Accessories/Razer DeathAdder V2/1.jpg,Source Image/Shop/PC Accessories/Razer DeathAdder V2/2.jpg
+PC Accessories, ,Logitech Headset G432,₱ 2,000.00,Source Image/Shop/PC Accessories/Logitech Headset G432/1.jpg,Source Image/Shop/PC Accessories/Logitech Headset G432/2.webp
+PC Accessories, ,Inplay Gaming Headset,₱ 1,500.00,Source Image/Shop/PC Accessories/Inplay Gaming Headset/1.webp,Source Image/Shop/PC Accessories/Inplay Gaming Headset/2.webp
+PC Accessories, ,Inplay Gaming Mouse Pad,₱ 500.00,Source Image/Shop/PC Accessories/Inplay Gaming Mouse Pad/1.jpg,Source Image/Shop/PC Accessories/Inplay Gaming Mouse Pad/2.jpg
+PC Accessories, ,Inplay Gaming Mouse Pad with RGB,₱ 1,000.00,Source Image/Shop/PC Accessories/Inplay Gaming Mouse Pad with RGB/1.jpg,Source Image/Shop/PC Accessories/Inplay Gaming Mouse Pad with RGB/2.jpg
+Processor, ,AMD Ryzen 5 5600G,₱ 12,000.00,Source Image/Shop/Processor/AMD Ryzen 5 5600G/1.jpg,Source Image/Shop/Processor/AMD Ryzen 5 5600G/2.webp
+Processor, ,AMD Ryzen 7 5700G,₱ 18,000.00,Source Image/Shop/Processor/AMD Ryzen 7 5700G/1.jpg,Source Image/Shop/Processor/AMD Ryzen 7 5700G/2.jpg
+Processor, ,AMD Ryzen 9 5900X,₱ 30,000.00,Source Image/Shop/Processor/AMD Ryzen 9 5900X/1.jpg,Source Image/Shop/Processor/AMD Ryzen 9 5900X/2.jpg
+Processor, ,Intel i3 12100,₱ 10,000.00,Source Image/Shop/Processor/Intel i3 12100/1.webp,Source Image/Shop/Processor/Intel i3 12100/2.jpg
+Processor, ,Intel i5 12400,₱ 15,000.00,Source Image/Shop/Processor/Intel i5 12400/1.jpg,Source Image/Shop/Processor/Intel i5 12400/2.jpg
+Processor, ,Intel i7 12700,₱ 25,000.00,Source Image/Shop/Processor/Intel i7 12700/1.jpg,Source Image/Shop/Processor/Intel i7 12700/2.jpg
+Storage, ,Western Digital Blue 1TB HDD,₱ 2,500.00,Source Image/Shop/Storage/Western Digital Blue 1TB HDD/1.jpg,Source Image/Shop/Storage/Western Digital Blue 1TB HDD/2.png
+Storage, ,Seagate Barracuda 2TB HDD,₱ 3,500,Source Image/Shop/Storage/Seagate Barracuda 2TB HDD/1.webp,Source Image/Shop/Storage/Seagate Barracuda 2TB HDD/2.jpg
+Storage, ,Samsung 970 EVO Plus 500GB NVMe SSD,₱ 4,000.00,Source Image/Shop/Storage/Samsung 970 EVO Plus 500GB NVMe SSD/1.jpg,Source Image/Shop/Storage/Samsung 970 EVO Plus 500GB NVMe SSD/2.avif
+Storage, ,Crucial P5 1TB NVMe SSD,₱ 6,000.00,Source Image/Shop/Storage/Crucial P5 1TB NVMe SSD/1.jpg,Source Image/Shop/Storage/Crucial P5 1TB NVMe SSD/2.webp
+Storage, ,Ramsta 256GB SSD,₱ 1,500.00,Source Image/Shop/Storage/Ramsta 256GB SSD/1.jpg,Source Image/Shop/Storage/Ramsta 256GB SSD/2.webp
+Television,True,NVision 43" 4K UHD TV,₱ 15,000.00,Source Image/Shop/Television/NVision 43 inch 4K UHD TV/1.png,Source Image/Shop/Television/NVision 43 inch 4K UHD TV/2.webp
+Monitor,True,LG 24MP59G 24" Gaming Monitor,₱ 7,000.00,Source Image/Shop/Monitor/LG 24MP59G 24 inch Gaming Monitor/1.jpg,Source Image/Shop/Monitor/LG 24MP59G 24 inch Gaming Monitor/2.jpg
+Monitor,True,Inplay 24" Gaming Monitor,₱ 5,000.00,Source Image/Shop/Monitor/Inplay 24 inch Gaming Monitor/1.jpg,Source Image/Shop/Monitor/Inplay 24 inch Gaming Monitor/2.jpg
+Monitor,True,Inplay 27" Gaming Monitor,₱ 7,000.00,Source Image/Shop/Monitor/Inplay 27 inch Gaming Monitor/1.jpg,Source Image/Shop/Monitor/Inplay 27 inch Gaming Monitor/2.jpg
